@@ -74,7 +74,8 @@ font-family: 'Balsamiq Sans', cursiva;
  
 }
 
-.col-lg-4 {
-text-align: center;
+#yo {
+    color:lightgrey;
+    text-align: center;
+    font-size: 12px;
 }
-
