@@ -1,0 +1,80 @@
+body {
+  background-color: palevioletred;
+  background-image: url(liso.jpg);
+
+}
+h1 {
+    text-align: center;
+    font-family: 'Balsamiq Sans', cursive;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: white;
+    font-size: 35px;
+  
+}
+
+
+.rellenar {
+display: block;
+margin: 10px auto;
+color: black;
+padding: 2px;
+border: 1px solid rgb(199, 27, 141);
+border-radius: 10px;
+font-family: 'Balsamiq Sans', cursiva;
+
+}
+
+#botones  {
+
+    margin-top: 15px;
+    margin-left: 3px;
+    margin-right: 3px;
+    
+
+}
+
+#boton1 {
+    text-align: center;
+    font-size: x-large;
+    color:white ;
+    background-color: rgb(199, 27, 141);
+    border: 1px solid rgb(199, 27, 141);
+    border-radius: 10px;
+    padding: 5px;
+
+    font-family: 'Balsamiq Sans', cursiva;
+    text-decoration: none;
+    margin-bottom: 10px;
+    display: block;
+ 
+}
+
+#boton2 {
+    text-align: center;
+    font-size: x-large;
+    color:white ;
+    background-color: rgb(199, 27, 141);
+    padding: 5px;
+    border: 1px solid rgb(199, 27, 141);
+    border-radius: 10px;
+    font-family: 'Balsamiq Sans', cursiva;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 20px;
+}
+
+
+
+#imagen {
+ width: 200px;
+ height: 350px;
+ text-align: left;
+
+ 
+}
+
+.col-lg-4 {
+text-align: center;
+}
+
