@@ -32,11 +32,11 @@ font-family: 'Balsamiq Sans', cursiva;
 
 }
 
-#imagen {
- width: 200px;
- height: 350px;
- text-align: center;
- 
+
+#imagen 
+img{
+    text-align: center;
+
 }
 
 #botones  {
@@ -44,8 +44,13 @@ font-family: 'Balsamiq Sans', cursiva;
     margin-top: 10px;
     margin-left: 3px;
     margin-right: 3px;
+    text-align: center;
     
 
+}
+
+.row {
+    text-align: center;
 }
 
 #boton1 {
